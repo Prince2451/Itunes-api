@@ -1,3 +1,11 @@
+## Introduction
+ 
+ This is a simple site where I-tunes api is used
+ This project implements
+ ReduxSauce
+ ApiSauce
+ Redux-saga
+
 ## Available Scripts
 
 In the project directory, you can run:
